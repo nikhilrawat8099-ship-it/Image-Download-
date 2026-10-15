@@ -1,0 +1,8 @@
+{
+  "name": "Lumina Wallpapers",
+  "description": "Premium wallpaper exploration app. Download high-quality backgrounds seamlessly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+     "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
